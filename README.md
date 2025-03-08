@@ -1,8 +1,7 @@
 # AI-Powered Resume Screening and Ranking System
+🔗 **Live Project Link:** [AI-Powered Resume Screening and Ranking System](https://ai-powered-resume-screening-and-ranking-system.streamlit.app/)
 
 ## Overview
-
-🔗 **Live Project Link:** [AI-Powered Resume Screening and Ranking System](https://ai-powered-resume-screening-and-ranking-system.streamlit.app/)
 
 The **AI-Powered Resume Screening and Ranking System** is a **Streamlit-based web application** designed to automate the recruitment process by analyzing and ranking resumes based on job descriptions. Using **Natural Language Processing (NLP)** and **TF-IDF with Cosine Similarity**, the system extracts and evaluates relevant information from resumes to determine the best candidates for a given job role.
 
